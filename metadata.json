@@ -1,0 +1,6 @@
+{
+  "name": "Sano",
+  "description": "Sleek, dark-themed developer IDE supporting syntax highlighting, project explorer, and real-time AI-powered collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
